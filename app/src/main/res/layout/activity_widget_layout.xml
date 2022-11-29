@@ -24,7 +24,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
 
-                <com.android.work.widgetmodel.widget.GongGeWidget
+                <com.android.work.gonggewidgetdemo.GongGeWidget
                     android:id="@+id/gongGe"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -105,7 +105,7 @@
                         android:layout_height="20dp"
                         android:background="#00FFF7"
                         android:text="11" />
-                </com.android.work.widgetmodel.widget.GongGeWidget>
+                </com.android.work.gonggewidgetdemo.GongGeWidget>
             </HorizontalScrollView>
 
         </LinearLayout>
