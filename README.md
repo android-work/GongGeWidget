@@ -44,11 +44,22 @@
   ....子控件
 
   </com.android.work.widgetmodel.widget.GongGeWidget
-  
+ 
+ ## 测试控件功能窗口
 ![测试控件功能窗口](https://user-images.githubusercontent.com/40420651/204466174-0bafd437-b7ad-458b-9806-e570339fd747.jpg)
+
+## 垂直排版，下对齐
 ![垂直排版，下对齐](https://user-images.githubusercontent.com/40420651/204466708-4cd15c40-0d88-4dba-b0d5-dc6f71bc17bc.jpg)
+
+## 垂直排版，上对齐
 ![垂直排版，上对齐](https://user-images.githubusercontent.com/40420651/204466225-f21efae7-ddf1-435b-ab84-eea21a1d930b.jpg)
+
+## 水平排版，右对齐
 ![水平排版，右对齐](https://user-images.githubusercontent.com/40420651/204466248-0c123e2d-4041-42b1-adb5-73a1af105907.jpg)
+
+## 水平排版，左对齐
 ![水平排版，左对齐](https://user-images.githubusercontent.com/40420651/204466275-bce9d0c3-a6bb-47a6-aed4-0cf35ac16abd.jpg)
+
+## 水平等分宽度
 ![水平等分宽度](https://user-images.githubusercontent.com/40420651/204466311-ac2c24c6-0fdd-481a-80f4-6d630dccda20.jpg)
 
