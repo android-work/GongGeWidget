@@ -1,3 +1,4 @@
 
 rootProject.name = "GongGeWidget"
 include ':app'
+include ':gonGeWidget'

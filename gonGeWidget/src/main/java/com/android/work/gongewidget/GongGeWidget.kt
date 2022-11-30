@@ -1,4 +1,4 @@
-package com.android.work.gonggewidgetdemo
+package com.android.work.gongewidget
 
 import android.content.Context
 import android.util.AttributeSet
@@ -10,9 +10,9 @@ import androidx.core.view.marginBottom
 import androidx.core.view.marginLeft
 import androidx.core.view.marginRight
 import androidx.core.view.marginTop
-import com.android.work.gonggewidgetdemo.GongGeWidget.Companion.DirectionType.Companion.between
-import com.android.work.gonggewidgetdemo.GongGeWidget.Companion.DirectionType.Companion.start
-import com.android.work.gonggewidgetdemo.GongGeWidget.Companion.OrientationType.Companion.horizontal
+import com.android.work.gongewidget.GongGeWidget.Companion.DirectionType.Companion.between
+import com.android.work.gongewidget.GongGeWidget.Companion.DirectionType.Companion.start
+import com.android.work.gongewidget.GongGeWidget.Companion.OrientationType.Companion.horizontal
 import kotlin.math.max
 
 class GongGeWidget : ViewGroup {
