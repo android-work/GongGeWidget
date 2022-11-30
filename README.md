@@ -12,7 +12,7 @@
 
   在模块的build.gradle中添加依赖
   dependencies {
-	        implementation 'com.github.android-work:GongGeWidget:v1.0.1'
+	        implementation 'com.github.android-work:GongGeWidget:v1.0.8'
 	}
 
 
